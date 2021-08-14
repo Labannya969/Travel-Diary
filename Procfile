@@ -1,1 +1,1 @@
-web gunicorn TravelDiary.wsgi
+web: gunicorn TravelDiary.wsgi
